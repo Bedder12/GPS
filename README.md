@@ -1,5 +1,17 @@
 # GPS Project
-A GPS that finds the shortest path to your desired destination all over Sweden using Dijkstras algorithm
+In this project, an application was developed to help users find the shortest route between two locations. Using a CSV dataset with information about different places and the distances between them, users can select a starting point and a destination to get the shortest route. The application provides both a graphical and text-based display of the route in the console. The graphical display is made possible by the location data in the dataset, which shows places and routes on a map.
+
+The project uses Dijkstra's algorithm, a key method for finding the shortest path in a graph. It includes several classes representing different parts of the graph and the algorithm, making it easy to understand and manage. The project explains the theory behind Dijkstra's algorithm, how it was implemented, and how the classes work together to solve the shortest path problem. It also discusses the results and possible improvements for the future.
+
+
+
+
+
+
+
+
+
+
 
 
 # How to run the program
