@@ -15,7 +15,6 @@ The project uses Dijkstra's algorithm, a key method for finding the shortest pat
 4. Now your good to run
 
 # How it works
-
-![Screenshot 2024-12-05 at 23 54 13](https://github.com/user-attachments/assets/465834ee-1ed0-4a75-98bc-8fe26c50bf67)
+![Screenshot 2024-12-06 at 02 26 21](https://github.com/user-attachments/assets/8b39e548-6d9a-4ea7-b96e-4d5c0e2a49b1)
 
 
