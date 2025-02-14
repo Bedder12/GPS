@@ -1,4 +1,4 @@
-# GPS Project
+# GPS Project: Shortest Path Finder Using Dijkstra's Algorithm
 
 This project is a Java application that helps users find the shortest route between two locations. It leverages Dijkstra's algorithm, a fundamental algorithm used to find the shortest paths in a graph. The application uses two CSV datasets containing information about various locations and the distances between them. The program allows users to choose a starting location and a destination, and it calculates the shortest path using the graph data. The results are displayed both graphically (on a map) and textually (in the console).
 
